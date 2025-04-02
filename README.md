@@ -1,5 +1,11 @@
-## Hi there 👋
-Hi am Santhosh am a Computer Science Student
+# 👋 Hi, I'm Santhu!
+🚀 Python Full-Stack Developer | Passionate About Web Development & AI
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **Full-Stack Development Projects**
+- 🌱 Learning **Django, React.js, FastAPI**
+- 💡 Exploring **AI & Data Science** as a future goal
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/santhosh-s-478b88252) | [Email](mailto:santhu.santhu7788@gmail.com)
+
 <!--
 **Santhouu/Santhouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
