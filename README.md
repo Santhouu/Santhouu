@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
+![Santhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhouu&show_icons=true&theme=radical)
+
+## 🏆 GitHub Contributions
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhouu&theme=react-dark)
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santhouu&theme=dark)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Santhouu&color=blue&style=flat-square)
