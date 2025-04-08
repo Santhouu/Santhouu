@@ -8,6 +8,11 @@ A curious developer who codes with coffee ☕ and builds with passion 💻💙
 - 💡 Exploring **AI & Data Science** as a future goal
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/santhosh-s-478b88252) | [Email](mailto:santhu.santhu7788@gmail.com)
 
+## 🔥 Featured Projects
+- 🚉 **Automated Railway Gate System** – Improves safety at railway crossings using sensors & automation (Final Year Project)
+- 🌐 **Portfolio Website** – Built using React.js & Django | Showcases my skills & projects
+
+
 
 ## 🛠 Tech Stack
 ### 💻 Programming Languages:
