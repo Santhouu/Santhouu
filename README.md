@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Santhosh!
 🚀 Python Full-Stack Developer | Passionate About Web Development & AI
+A curious developer who codes with coffee ☕ and builds with passion 💻💙
+
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Full-Stack Development Projects**
 - 🌱 Learning **Django, React.js, FastAPI**
