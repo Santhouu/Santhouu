@@ -7,6 +7,11 @@ A curious developer who codes with coffee ☕ and builds with passion 💻💙
 - 🌱 Learning **Django, React.js, FastAPI**
 - 💡 Exploring **AI & Data Science** as a future goal
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/santhosh-s-478b88252) | [Email](mailto:santhu.santhu7788@gmail.com)
+📫 Reach me at:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-s-478b88252)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:santhu.santhu7788@gmail.com)
+
+
 
 ## 🔥 Featured Projects
 - 🚉 **Automated Railway Gate System** – Improves safety at railway crossings using sensors & automation (Final Year Project)
