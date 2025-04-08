@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santhu!
+# 👋 Hi, I'm Santhosh!
 🚀 Python Full-Stack Developer | Passionate About Web Development & AI
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on **Full-Stack Development Projects**
