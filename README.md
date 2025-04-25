@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🪁GitHub Contributions
+![Santhu's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhouu&show_icons=true&theme=radical&layout=compact)
+
+
 ## 📊 GitHub Stats
 ![Santhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhouu&show_icons=true&theme=radical)
 
