@@ -46,7 +46,7 @@ A curious developer who codes with coffee ☕ and builds with passion 💻💙
 ## 🏆 GitHub Contributions
 
 ### 📊 Top Languages
-![Santhu's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhouu&show_icons=true&theme=radical&layout=compact)
+![Santhu's GitHub Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhouu&show_icons=true&theme=radical&layout=compact)
 
 ### 📈 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhouu&theme=react-dark)
