@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Santhosh!
-🚀 Python Full-Stack Developer | Passionate About Web Development & AI  
+🚀 **Python Full-Stack Developer** | Passionate About **Web Development** & **AI**  
 A curious developer who codes with coffee ☕ and builds with passion 💻💙
 
 ---
@@ -17,22 +17,22 @@ A curious developer who codes with coffee ☕ and builds with passion 💻💙
   An automated system that enhances safety at railway crossings using sensors & automation. *(Final Year Project)*  
   [🔗 View Project (Optional Link)](#)
 
-- 🌐 **Portfolio Website**  
-  A showcase of my skills and projects built using **React.js** & **Django**.  
-  [🔗 View Live](#) | [💻 GitHub Repo](#)
+- 🌐 **YouTube Clone**  
+  A full-stack project replicating YouTube functionality using **HTML**, **CSS**, **JavaScript**, and **React.js**.  
+  [🔗 View Live](#) | [💻 GitHub Repo](https://github.com/Santhouu/You-Tube-Clone)
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- **Python**: 🐍 My primary language for backend development
+- **Python**: 🐍 My primary language for backend development and AI/ML projects
 - **JavaScript**: 🌐 Used for building interactive front-end applications with **React.js**
 
 ### 🚀 Frameworks & Libraries
 - **Django**: 💻 For building robust, scalable web applications
 - **FastAPI**: ⚡ For creating fast, modern APIs
-- **React**: ⚛️ For building dynamic user interfaces
+- **React.js**: ⚛️ For building dynamic user interfaces
 
 ### 🛢️ Databases
 - **MySQL**: 🗃️ My preferred relational database for backend systems
