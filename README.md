@@ -52,9 +52,13 @@ A curious developer who codes with coffee ☕ and builds with passion 💻💙
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhouu&theme=react-dark)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Santhouu&theme=dark)
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santhouu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="GitHub Streak" 
+       width="600" />
+</p>
+
 
 ## ⚡ Fun Facts
 - 💡 I love solving coding challenges and always try to contribute to open-source.
