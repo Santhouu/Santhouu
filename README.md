@@ -3,7 +3,6 @@
 🚀 Python Full-Stack Developer | Passionate About Web Development & AI  
 A curious developer who codes with coffee ☕ and builds with passion 💻💙
 
-![Profile Badge](https://img.shields.io/badge/Python--Full--Stack-blue?style=for-the-badge&logo=python)
 ![Currently Learning](https://img.shields.io/badge/Learning-Django_&_React-orange?style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/Santhouu?label=Followers&style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/Santhouu?style=for-the-badge)
