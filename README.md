@@ -15,10 +15,10 @@ A curious developer who codes with coffee ☕ and builds with passion 💻💙
 ## 🔥 Featured Projects
 - 🚉 **Automated Railway Gate System**  
   An automated system that enhances safety at railway crossings using sensors & automation. *(Final Year Project)*  
-  [🔗 View Project (Optional Link)](#)
+  [🔗 View Project](#)
 
 - 🌐 **Portfolio Website**  
-  A showcase of my skills and projects built using **React.js** & **Django**.  
+  A portfolio showcasing my skills and projects, built using **React.js** and **Django**.  
   [🔗 View Live](#) | [💻 GitHub Repo](#)
 
 ---
@@ -43,31 +43,28 @@ A curious developer who codes with coffee ☕ and builds with passion 💻💙
 
 ---
 
-## 🏆 GitHub Contributions
+## 🏆 GitHub Contributions & Stats
 
-### 📊 Top Languages
+## 📊 Top Languages
 ![Santhu's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santhouu&theme=radical)
 
-### 📈 GitHub Activity
+## 📈 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Santhouu&theme=react-dark)
 
-### 🔥 GitHub Streak
-
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Santhouu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-       alt="GitHub Streak" 
+       alt="Santhu's GitHub Streak - Daily Contributions" 
        width="600" />
 </p>
-
-
-
-## ⚡ Fun Facts
-- 💡 I love solving coding challenges and always try to contribute to open-source.
-- 🎮 In my free time, I enjoy playing strategy games to sharpen my problem-solving skills.
-
----
 
 ## 📊 GitHub Stats
 ![Santhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santhouu&show_icons=true&theme=radical)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Santhouu&color=blue&style=flat-square)
+
+---
+
+## ⚡ Fun Facts
+- 💡 I love solving coding challenges and always try to contribute to open-source.
+- 🎮 In my free time, I enjoy playing strategy games to sharpen my problem-solving skills.
